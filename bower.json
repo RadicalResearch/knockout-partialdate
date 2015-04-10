@@ -1,0 +1,14 @@
+{
+  "name": "knockout-partialdate",
+  "version": "0.1.0",
+  "homepage": "https://github.com/RadicalResearch/knockout-partialdate",
+  "authors": [
+    "Sam Greenhalgh <github.com@zapthedingbat.com>"
+  ],
+  "description": "KnockoutJS partial date extender",
+  "main": "dist/knockout-partialdate.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
