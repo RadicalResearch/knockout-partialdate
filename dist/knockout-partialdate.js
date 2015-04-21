@@ -8,7 +8,7 @@
     }
 }(function(ko) {
 
-    var parts = ['year', 'month', 'day', 'hours', 'minutes', 'seconds'];
+    var parts = ['year', 'month', 'date', 'hours', 'minutes', 'seconds'];
 
     ko.extenders['partialdate'] = function(target) {
 
